@@ -6,9 +6,11 @@ Feito mais ou menos em março de 2023, fiz essa cartinha de pokemon do MewTwo pa
 Levei em conta esta carta (real) como referência:
 
 ![Referência](https://github.com/user-attachments/assets/ce75f8c6-a695-4668-a2d9-364117569db3)
+<img src="https://github.com/user-attachments/assets/ce75f8c6-a695-4668-a2d9-364117569db3" height="500px" width="auto">
 
 E o resultado final do meu clone foi este:
 
 ![image](https://github.com/user-attachments/assets/ca913a7c-b4c1-435b-aea3-59c9905fa208)
+<img src="https://github.com/user-attachments/assets/ca913a7c-b4c1-435b-aea3-59c9905fa208" height="500px" width="auto">
 
 Ainda existem alguns pontos para melhoria, mas na época havia ficado muito contente com o resultado!
